@@ -1,0 +1,15 @@
+backports-abc==0.5
+bitarray==0.8.1
+certifi==2018.1.18
+click==6.7
+Flask==0.12.2
+Flask-Cors==3.0.3
+impyla==0.14.1
+itsdangerous==0.24
+Jinja2==2.10
+MarkupSafe==1.0
+singledispatch==3.4.0.3
+six==1.11.0
+thrift==0.9.3
+tornado==4.5.3
+Werkzeug==0.14.1
